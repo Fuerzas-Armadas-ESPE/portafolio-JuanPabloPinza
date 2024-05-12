@@ -9,7 +9,6 @@ import { config } from "../../constants/config";
 
 const FeedbackCard: React.FC<{ index: number } & TTestimonial> = ({
   index,
-  testimonial,
   name,
   designation,
   company,
